@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?id=1XPWLjUo2-j8iGw07ALcxu7oqJ3nkl2Ho" alt="Rocketseat+"/>
 
-# DesignPatterns4Devs - Prototype
+# DesignPatterns4Devs - Adapter
 
 Se adapta para que interfaces diferentes possam de comunicar entre si, como um adaptador de tomadas! Esse é o lema do Adapter.
 Estamos dando início a série de Design Patterns Estruturais baseados em orientação a objetos e com inspiração do livro do GOF.
