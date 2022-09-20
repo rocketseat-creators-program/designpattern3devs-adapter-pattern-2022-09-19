@@ -28,7 +28,7 @@ public class Client {
         statusCode = userRestApi.get();
         System.out.println(statusCode);
 
-        body.put("email", "user2@email.com");
+        body.put("email", "teste2@teste.com");
         body.put("name", "User 2");
         statusCode = userRestApi.post(body);
         System.out.println(statusCode);
